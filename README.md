@@ -23,6 +23,7 @@ Chartwells Higher Ed. - Jan 22 – March 23
 - Resolved customer complaints and concerns promptly, resulting a good customer satisfaction score.
 - Assisted in organizing and promoting special events and promotions, contributing to a 25% increase in sales.
 
+<<<<<<< Updated upstream
 Southeast Missouri State University – Cape Girardeau MO
 Data Entry Clerk -  Aug 2023– April 2024
 •	Processed 5,000+ records daily with 99%+ accuracy, ensuring data integrity.
@@ -30,6 +31,16 @@ Data Entry Clerk -  Aug 2023– April 2024
 •	Verified and cross-checked data, reducing errors by 30% through quality control measures.
 •	Organized and categorized information, improving data retrieval efficiency by 25%.
 •	Maintained confidentiality and adhered to data security protocols.
+=======
+
+Southeast Missouri State University – Cape Girardeau MO
+Data Entry Clerk -  Aug 2023– April 2024
+- Processed 5,000+ records daily with 99%+ accuracy, ensuring data integrity.
+- Managed and maintained datasets of 100K+ entries using Excel, Google Sheets, and MySQL.
+- Verified and cross-checked data, reducing errors by 30% through quality control measures.
+- Organized and categorized information, improving data retrieval efficiency by 25%.
+- Maintained confidentiality and adhered to data security protocols.
+>>>>>>> Stashed changes
 
 
 ### PROJECTS
@@ -42,4 +53,7 @@ Machine Learning Model for Classification (Python, Scikit-learn, TensorFlow)
 - Built and trained a classification model using real-world datasets
 - Optimized model performance using hyperparameter tuning and cross-validation
 - Evaluated model accuracy using precision, recall, and F1-score metrics
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
