@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # My Data Science Portfolio
 
