@@ -1,8 +1,9 @@
 # My Data Science Portfolio
 
-Welcome to my portfolio! I'm **Miraj Rahman Sanjid**, an aspiring Data Scientist passionate about machine learning, data visualization, and predictive modeling. This repository showcases my projects and skills in data science, built using tools like Python, Scikit-learn, SQL, and more.
+Welcome to my portfolio! I'm **Miraj Rahman Sanjid**
 
-![My Picture](assets/img/SEMO Headshots_Feb-25-6857-Photos by John Gerard Photography-modified.png)
+
+An aspiring Data Scientist passionate about machine learning, data visualization, and predictive modeling. This repository showcases my projects and skills in data science, built using tools like Python, Scikit-learn, SQL, and more.
 
 ## Projects
 
